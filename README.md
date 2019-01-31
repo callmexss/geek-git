@@ -3,6 +3,6 @@ Learn github.
 
 ## Register Github Account
 
-You need an email address to register github.
+You at least need an email address to register github.
 
 ## Public Key Setting
